@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="assets/ATHERION%20Earth%20-%20EMBER%20TRACE.jpeg" alt="EMBER TRACE - ATHERION Earth" width="100%">
+</p>
+
+
 # EMBER TRACE
 ### ATHERION Earth — NASA Space Apps Challenge 2026
 
